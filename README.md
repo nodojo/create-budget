@@ -6,8 +6,10 @@
 - [A Simple Spreadsheet on "When You Can Retire" (And Also How Long You Have Until Death!) | Budgets Are Sexy | budgets are sexy](https://budgetsaresexy.com/when-you-can-retire-spreadsheet-and-when-youre-going-to-die/)
 - [Best Free Budget Templates & Spreadsheets | budgets are sexy](https://budgetsaresexy.com/free-budget-templates-sites/)
 - [Budget Modeler Example](https://docs.google.com/spreadsheets/d/16x_2IkTArADOGfmimU8V7ejkpfCwdgKQWYmRMJJdRXg/edit#gid=0)
+- [Financial Independence Spreadsheet | mad fientist](https://www.madfientist.com/financial-independence-spreadsheet/)
 - [Monthly By Week Budget Form 2006-10-30 Blank.xls | josephsangl.com](https://www.josephsangl.com/wp-content/uploads/2006/12/Monthly%20By%20Week%20Budget%20Form%202006-10-30%20Blank.htm)
 - [Monthly Budget Form 2006-10-12 Blank.xls | josephsangl.com](https://www.josephsangl.com/wp-content/uploads/2006/11/Monthly%20Budget%20Form%202006-11-30.htm)
+- [Post-FIRE Spreadsheet | mad fientist](https://www.madfientist.com/post-fire-spreadsheet/)
 - [The Early Retirement/Financial Freedom Spreadsheet! | budgets are sexy](https://budgetsaresexy.com/early-retirement-fi-spreadsheet/)
 - [The Budgets Are Sexy "Financial Snapshot" Spreadsheet | Budgets Are Sexy | budgets are sexy](https://budgetsaresexy.com/budget-are-sexy-financial-snapshot-spreadsheet/)
 
@@ -19,6 +21,7 @@
 ## Tools
 
 - [9 Best Free Budgeting Software Tools | wallet hacks](https://wallethacks.com/free-budget-software/)
+- [FI Laboratory | mad fientist](https://www.madfientist.com/fi-laboratory/)
 - [Mint.com](https://mint.intuit.com/)
 
 ## Articles
@@ -39,6 +42,7 @@
 
 - [Budget Like A Badass | listen money matters](https://www.listenmoneymatters.com/playlist/budget-like-badass/)
 - [Budgeting | investopedia](https://www.investopedia.com/budgeting-4689726)
+- [Budgeting | my money blog](https://www.mymoneyblog.com/category/budgeting)
 - [Budgeting Skills | skillsyouneed](https://www.skillsyouneed.com/num/budgeting.html)
 - [My Favorite Financial Blogs, Books, Apps, & More | budgets are sexy](https://budgetsaresexy.com/recommend/)
 - [The Financial Toolbox | listen money matters](https://www.listenmoneymatters.com/toolbox/)
