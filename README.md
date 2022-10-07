@@ -16,6 +16,7 @@
 - [The Balanced Money Formula | get rich slowly](https://drive.google.com/file/d/1kVO7C9j4cQZUb1P9R1HQuTA7bNWkNDS_/view)
 - [The Early Retirement/Financial Freedom Spreadsheet! | budgets are sexy](https://budgetsaresexy.com/early-retirement-fi-spreadsheet/)
 - [The Budgets Are Sexy "Financial Snapshot" Spreadsheet | Budgets Are Sexy | budgets are sexy](https://budgetsaresexy.com/budget-are-sexy-financial-snapshot-spreadsheet/)
+- [Zero-Based Budgets: Templates and Examples | wallet hacks](https://wallethacks.com/zero-based-budget-template/)
 
 ## Calculators
 
