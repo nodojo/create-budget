@@ -44,6 +44,7 @@
 - [Budgeting Systems: Design One That Sticks to Your Lifestyle This Year | listen money matters](https://www.listenmoneymatters.com/budgeting-systems/)
 - [Create a Budget for Your Income and Necessities | the balance](https://www.thebalancemoney.com/budget-worksheet-income-and-necessities-453596)
 - [Credit Karma Guide to Budgeting | credit karma](https://www.creditkarma.com/advice/i/credit-karma-guide-budgeting)
+- [Everything You Need to Know About Managing Your Money in 2022 | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/how-do-i-control-my-finances/)
 - [Financial Spring Cleaning: 8 Money Moves You Should Do Now from Home | wallet hacks](https://wallethacks.com/money-spring-cleaning/)
 - [How to budget: A pain-free guide to building a budget that works | get rich slowly](https://www.getrichslowly.org/how-to-budget/)
 - [How To Make A Budget (And Actually Stick To It Every Month) | good financial cents](https://www.goodfinancialcents.com/how-to-budget/)
