@@ -10,6 +10,7 @@
 - [Monthly By Week Budget Form 2006-10-30 Blank.xls | josephsangl.com](https://www.josephsangl.com/wp-content/uploads/2006/12/Monthly%20By%20Week%20Budget%20Form%202006-10-30%20Blank.htm)
 - [Monthly Budget Form 2006-10-12 Blank.xls | josephsangl.com](https://www.josephsangl.com/wp-content/uploads/2006/11/Monthly%20Budget%20Form%202006-11-30.htm)
 - [Post-FIRE Spreadsheet | mad fientist](https://www.madfientist.com/post-fire-spreadsheet/)
+- [Simple budget planner | get rich slowly](https://docs.google.com/spreadsheets/d/185n_eqi_o5gm-9L9zoLzMuinddiQldm6lA2Y9GE5Y-E/edit?amp;hl=en#gid=0) *(see accompanying article)*
 - [The Early Retirement/Financial Freedom Spreadsheet! | budgets are sexy](https://budgetsaresexy.com/early-retirement-fi-spreadsheet/)
 - [The Budgets Are Sexy "Financial Snapshot" Spreadsheet | Budgets Are Sexy | budgets are sexy](https://budgetsaresexy.com/budget-are-sexy-financial-snapshot-spreadsheet/)
 
@@ -31,6 +32,7 @@
 
 ## Articles
 
+- [A Free and Simple Budget Planner | get rich slowly](https://www.getrichslowly.org/a-free-and-simple-budget-planner/) *(see accompanying speadsheet)*
 - [As Recession Looms, Planning Your ‘Doomsday Budget’ Is Key to Peace of Mind | forge](https://forge.medium.com/as-a-recession-looms-planning-your-doomsday-budget-is-key-to-peace-of-mind-4f59704a01a5)
 - [Budgeting for a New Baby | investopedia](https://www.investopedia.com/articles/pf/08/budgeting-for-baby.asp)
 - [Budgeting Systems: Design One That Sticks to Your Lifestyle This Year | listen money matters](https://www.listenmoneymatters.com/budgeting-systems/)
