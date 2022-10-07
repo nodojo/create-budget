@@ -16,6 +16,8 @@
 ## Calculators
 
 - [Budget Calculator | calculator.net](https://www.calculator.net/budget-calculator.html)
+- [Cost of Living Calculator | numbeo](https://www.numbeo.com/cost-of-living/)
+- [Cost of Living in Florence, SC | numbeo](https://www.numbeo.com/cost-of-living/in/Florence-SC-United-States)
 - [Home Budget Calculator | bankrate](https://www.bankrate.com/real-estate/home-budget-plan-calculator/)
 - [Money Boss net worth calculator | get rich slowly](https://docs.google.com/spreadsheets/d/15Cr7CbgsXH3yah_lN8U4q5II_E14K2jdT8YRYA8E3xM/edit#gid=0)
 
