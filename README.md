@@ -49,6 +49,7 @@
 ## Aggregated resources
 
 - [Budget Like A Badass | listen money matters](https://www.listenmoneymatters.com/playlist/budget-like-badass/)
+- [Budgeting | frugal for life](https://frugalforlife.blogspot.com/search/label/Budgetting)
 - [Budgeting | investopedia](https://www.investopedia.com/budgeting-4689726)
 - [Budgeting | my money blog](https://www.mymoneyblog.com/category/budgeting)
 - [Budgeting Skills | skillsyouneed](https://www.skillsyouneed.com/num/budgeting.html)
