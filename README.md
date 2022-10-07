@@ -41,6 +41,7 @@
 - [How To Set Up Your Budget Categories With The 50:30:20 Rule | listen money matters](https://www.listenmoneymatters.com/budget-categories-50-30-20-rule/)
 - [The 50/30/20 Rule of Thumb for Budgeting | the balance](https://www.thebalancemoney.com/the-50-30-20-rule-of-thumb-453922)
 - [The Grand Finale of The Baby $$$ Tracker | budgets are sexy](https://budgetsaresexy.com/how-much-babies-cost/)
+- [The money boss budget | get rich slowly](https://www.getrichslowly.org/money-boss-budget/)
 - [What is the best approach for budgeting savings? | r/ynab](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/)
 - [Your Complete Guide To Creating A Monthly Budget This Year | listen money matters](https://www.listenmoneymatters.com/monthly-budget/)
 
