@@ -68,8 +68,12 @@
 ## Blogs
 
 - [Budgets Are Sexy Blog](https://budgetsaresexy.com/)
+- [You Need a Budget | ynab](https://www.youneedabudget.com/blog/) *(see accompanying tool and review)*
 
 ## Communities
 
 - [You Need a Budget | reddit](https://www.reddit.com/r/ynab/)
-- [You Need a Budget | ynab](https://www.youneedabudget.com/blog/) *(see accompanying tool and review)*
+
+## YouTube channels
+
+- [You Need A Budget (YNAB) | youtube](https://www.youtube.com/user/YouNeedABudget)
