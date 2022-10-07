@@ -48,6 +48,7 @@
 - [How to budget: A pain-free guide to building a budget that works | get rich slowly](https://www.getrichslowly.org/how-to-budget/)
 - [How To Make A Budget (And Actually Stick To It Every Month) | good financial cents](https://www.goodfinancialcents.com/how-to-budget/)
 - [How To Set Up Your Budget Categories With The 50:30:20 Rule | listen money matters](https://www.listenmoneymatters.com/budget-categories-50-30-20-rule/)
+- [How to use the Envelope System to save hundreds per month | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/envelope-system/)
 - [Review: You need a budget | get rich slowly](https://www.getrichslowly.org/you-need-a-budget/) *(see accompanying tool and blog)*
 - [The 50/30/20 Rule of Thumb for Budgeting | the balance](https://www.thebalancemoney.com/the-50-30-20-rule-of-thumb-453922)
 - [The Grand Finale of The Baby $$$ Tracker | budgets are sexy](https://budgetsaresexy.com/how-much-babies-cost/)
