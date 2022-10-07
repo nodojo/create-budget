@@ -37,6 +37,7 @@
 - [Create a Budget for Your Income and Necessities | the balance](https://www.thebalancemoney.com/budget-worksheet-income-and-necessities-453596)
 - [Credit Karma Guide to Budgeting | credit karma](https://www.creditkarma.com/advice/i/credit-karma-guide-budgeting)
 - [Financial Spring Cleaning: 8 Money Moves You Should Do Now from Home | wallet hacks](https://wallethacks.com/money-spring-cleaning/)
+- [How to budget: A pain-free guide to building a budget that works | get rich slowly](https://www.getrichslowly.org/how-to-budget/)
 - [How To Make A Budget (And Actually Stick To It Every Month) | good financial cents](https://www.goodfinancialcents.com/how-to-budget/)
 - [How To Set Up Your Budget Categories With The 50:30:20 Rule | listen money matters](https://www.listenmoneymatters.com/budget-categories-50-30-20-rule/)
 - [The 50/30/20 Rule of Thumb for Budgeting | the balance](https://www.thebalancemoney.com/the-50-30-20-rule-of-thumb-453922)
