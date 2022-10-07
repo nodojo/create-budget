@@ -12,6 +12,7 @@
 - [Monthly Budget Form 2006-10-12 Blank.xls | josephsangl.com](https://www.josephsangl.com/wp-content/uploads/2006/11/Monthly%20Budget%20Form%202006-11-30.htm)
 - [Post-FIRE Spreadsheet | mad fientist](https://www.madfientist.com/post-fire-spreadsheet/)
 - [Simple budget planner | get rich slowly](https://docs.google.com/spreadsheets/d/185n_eqi_o5gm-9L9zoLzMuinddiQldm6lA2Y9GE5Y-E/edit?amp;hl=en#gid=0) *(see accompanying article)*
+- [The Balanced Money Formula | get rich slowly](https://drive.google.com/file/d/1kVO7C9j4cQZUb1P9R1HQuTA7bNWkNDS_/view)
 - [The Early Retirement/Financial Freedom Spreadsheet! | budgets are sexy](https://budgetsaresexy.com/early-retirement-fi-spreadsheet/)
 - [The Budgets Are Sexy "Financial Snapshot" Spreadsheet | Budgets Are Sexy | budgets are sexy](https://budgetsaresexy.com/budget-are-sexy-financial-snapshot-spreadsheet/)
 
