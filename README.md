@@ -47,6 +47,7 @@
 - [Everything You Need to Know About Managing Your Money in 2022 | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/how-do-i-control-my-finances/)
 - [Financial Spring Cleaning: 8 Money Moves You Should Do Now from Home | wallet hacks](https://wallethacks.com/money-spring-cleaning/)
 - [How to budget: A pain-free guide to building a budget that works | get rich slowly](https://www.getrichslowly.org/how-to-budget/)
+- [How to Build a Bulletproof Budget: Worksheet + 50/30/20 Rule | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/budget-help/)
 - [How To Make A Budget (And Actually Stick To It Every Month) | good financial cents](https://www.goodfinancialcents.com/how-to-budget/)
 - [How To Set Up Your Budget Categories With The 50:30:20 Rule | listen money matters](https://www.listenmoneymatters.com/budget-categories-50-30-20-rule/)
 - [How to use the Envelope System to save hundreds per month | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/envelope-system/)
