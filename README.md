@@ -71,3 +71,4 @@
 ## Communities
 
 - [You Need a Budget | reddit](https://www.reddit.com/r/ynab/)
+- [You Need a Budget | ynab](https://www.youneedabudget.com/blog/)
