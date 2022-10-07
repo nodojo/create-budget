@@ -33,6 +33,7 @@
 - [Best budgeting apps of 2021 | get rich slowly](https://www.getrichslowly.org/best-budgeting-apps/)
 - [FI Laboratory | mad fientist](https://www.madfientist.com/fi-laboratory/)
 - [Mint.com](https://mint.intuit.com/)
+- [YNAB app](https://www.youneedabudget.com/)
 
 ## Articles
 
