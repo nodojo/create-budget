@@ -28,6 +28,7 @@
 ## Tools
 
 - [9 Best Free Budgeting Software Tools | wallet hacks](https://wallethacks.com/free-budget-software/)
+- [Best budgeting apps of 2021 | get rich slowly](https://www.getrichslowly.org/best-budgeting-apps/)
 - [FI Laboratory | mad fientist](https://www.madfientist.com/fi-laboratory/)
 - [Mint.com](https://mint.intuit.com/)
 
