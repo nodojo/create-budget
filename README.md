@@ -29,6 +29,7 @@
 
 ## Tools
 
+- [6 Budgeting Spreadsheets and Tools Everyone Should Be Using in 2022 | i will teach you to be rich](https://www.iwillteachyoutoberich.com/blog/best-budgeting-spreadsheets-and-tools/)
 - [9 Best Free Budgeting Software Tools | wallet hacks](https://wallethacks.com/free-budget-software/)
 - [Best budgeting apps of 2021 | get rich slowly](https://www.getrichslowly.org/best-budgeting-apps/)
 - [FI Laboratory | mad fientist](https://www.madfientist.com/fi-laboratory/)
